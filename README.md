@@ -1,2 +1,2 @@
 # BlogCafe
-blog de cafe
+https://gassandev.github.io/BlogCafe/
